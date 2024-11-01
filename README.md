@@ -1,11 +1,10 @@
-# statistics-and-trends
 
 
 # Dataset Analysis and Insights: Statistics-and-Trends
 
 # Overview
 
-This project provides an in-depth analysis of trends and insights in the [Dataset Name], focusing on key factors such as age, income, and smoking status. Using Python and Jupyter Notebook, we explore statistical relationships and patterns within the data to derive actionable insights.
+This project provides an in-depth analysis of trends and insights in the dataset/smoking.csv, focusing on key factors such as age, income, and smoking status. Using Python and Jupyter Notebook, we explore statistical relationships and patterns within the data to derive actionable insights.
 
 # Dataset
 File: dataset/smoking.csv
